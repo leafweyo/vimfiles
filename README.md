@@ -1,4 +1,4 @@
 vimfiles
 ========
 
-vimrc&amp;plugins
+my vimrc
